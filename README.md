@@ -85,7 +85,7 @@ npm run dev .
 ![CheckOut](https://github.com/B2Kumar03/Project1Image/blob/main/Checkouting.png?raw=true)
 
 
-- Login page opening
+- Login page  opening
 
 ![CheckOut](https://github.com/B2Kumar03/Project1Image/blob/main/Homewithmenu.png?raw=true)
 ![CheckOut](https://github.com/B2Kumar03/Project1Image/blob/main/login.png?raw=true)
