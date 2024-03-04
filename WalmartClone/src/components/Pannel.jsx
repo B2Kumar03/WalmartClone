@@ -16,7 +16,7 @@ import { SlArrowDown, SlArrowUp } from "react-icons/sl";
 import { CiLocationOn } from "react-icons/ci";
 import { IoHomeOutline } from "react-icons/io5";
 import { motion } from "framer-motion";
-import { faL } from "@fortawesome/free-solid-svg-icons";
+
 import { Link as ReactRouterLink } from "react-router-dom";
 import { Link as ChakraLink} from "@chakra-ui/react";
 
