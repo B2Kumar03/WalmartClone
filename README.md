@@ -90,7 +90,7 @@ npm run dev .
 ![CheckOut](https://github.com/B2Kumar03/Project1Image/blob/main/Homewithmenu.png?raw=true)
 ![CheckOut](https://github.com/B2Kumar03/Project1Image/blob/main/login.png?raw=true)
 
-###8.Reponsiveness : 60%
+###8.Reponsiveness :60%
 
 - ![responsive](https://github.com/B2Kumar03/Project1Image/blob/main/Renponsive1.png?raw=true)
 
