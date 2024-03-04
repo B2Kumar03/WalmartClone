@@ -1,0 +1,152 @@
+*{
+  margin:0;
+  padding: 0;
+
+}
+
+.roboto-thin {
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.roboto-light {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.roboto-regular {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.roboto-medium {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.roboto-bold {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.roboto-black {
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.roboto-thin-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  font-style: italic;
+}
+
+.roboto-light-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.roboto-regular-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.roboto-medium-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.roboto-bold-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.roboto-black-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-style: italic;
+}
+
+.account:hover {
+  background-color: #004f9a;
+  border-radius: 20px;
+}
+.department:hover {
+  background-color: #004f9a;
+  border-radius: 20px;
+  cursor: pointer;
+}
+.services:hover {
+  background-color: red;
+  background-color: #004f9a;
+  border-radius: 20px;
+  cursor: pointer;
+}
+.cart:hover {
+  background-color: #004f9a;
+  border-radius: 20px;
+  cursor: pointer;
+}
+.items:hover {
+  background-color: #004f9a;
+  border-radius: 20px;
+  cursor: pointer;
+}
+.logo:hover {
+  background-color: red;
+  background-color: #004f9a;
+  border-radius: 20px;
+  cursor: pointer;
+}
+.department1 {
+  cursor: pointer;
+}
+.product{
+  cursor: pointer;
+  
+}
+.product:hover{
+   border:1px solid black;
+   padding: 10px;
+   box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+   cursor: pointer;
+}
+
+
+
+
+.headroom {
+  position: sticky;
+  /* position: relative; */
+  top:0;
+  z-index: 9999;
+   /* Adjust as needed */
+}
+
+.text-truncate {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.heading4{
+  box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 2px, rgba(0, 0, 0, 0.07) 0px 2px 4px, rgba(0, 0, 0, 0.07) 0px 4px 8px, rgba(0, 0, 0, 0.07) 0px 8px 16px, rgba(0, 0, 0, 0.07) 0px 16px 32px, rgba(0, 0, 0, 0.07) 0px 32px 64px;
+}
+.cart2{
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+
+.tab:hover{
+  background-color: #ccc;
+  cursor: pointer;
+}
+
